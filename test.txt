@@ -11,6 +11,10 @@ sub de commit
 
 
 ////////////////////// add
+<<<<<<< HEAD
 ////////////////////// add2
 
+=======
+add other member later
+>>>>>>> master
 
